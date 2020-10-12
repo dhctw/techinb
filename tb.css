@@ -1,0 +1,44 @@
+.Welcome {
+	color:yellow;
+	font-size:38px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.meet-us {
+	color:white;
+	font-size:22px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ServiceOne, .ServiceTwo, .ServiceThree, .ServiceFour, 
+.ServiceFive, .ServiceSix {
+	color:yellow;
+	font-size:25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.S1-DESCRIPTION, .S2-DESCRIPTION, .S3-DESCRIPTION, .S4-DESCRIPTION, 
+.S5-DESCRIPTION, .S6-DESCRIPTION .CONTACT-HEAD, .CONTACT-SUBHEAD {
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:18px;
+
+}
+
+.p {
+	color:white;
+}
+
+.Services-1 .C-HEAD {
+	color:white;
+	font-size:35px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
